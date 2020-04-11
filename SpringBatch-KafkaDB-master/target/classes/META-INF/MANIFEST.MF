@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBatchCsvProcessor
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Abu
+Implementation-Vendor-Id: com.accolite.aman
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBatchCsvProcessor
+Created-By: Maven Integration for Eclipse
+
